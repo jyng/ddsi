@@ -3,6 +3,12 @@ h1,h2,h3,h4,body
   font-family:'Lora',serif;
 
 }
+h1 {
+  font-weight:400;
+}
+.label {
+  font-family:'Open Sans',sans-serif;
+}
 
 .mega {
 font-size: 3rem;
@@ -105,14 +111,6 @@ font-size: .85rem;
 .f5-l {
  font-size: .85rem;
 }
-}
-
-.caps {
-  font-family:'Open Sans',sans-serif;
-}
-
-h1 {
-  font-weight:400;
 }
 
 .header-measure {

@@ -10,7 +10,9 @@ h1 {
   font-family:'Open Sans',sans-serif;
   font-weight: 400;
 }
-
+h3 {
+  font-weight:400;
+}
 .mega {
 font-size: 3rem;
 }
@@ -131,8 +133,8 @@ max-width: 18rem;
 
 /*Animation*/
 .animated {
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
+  -webkit-animation-duration: 1.6s;
+  animation-duration: 1.6s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
